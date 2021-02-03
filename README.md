@@ -10,7 +10,8 @@ and make sure you have installed pyfirmata2 in your PC
 
 If you are using an arduino uno, I recommand using pinA0 for DAQ
 
-IIR2Filter.py: 		It is a IIR2Filter class definition. 
+IIR2Filter.py: 		It is a IIR2Filter class. 
+
 jitter_detector.py	Run it in command window and it prints data in 50 secs with sampling rate of 100Hz. 
 			Finally it prints 'finished' and total processing time(in nanoseconds)) By comparing the 
 			number of samples and the number expected, you will find the changes in sampling rate.
