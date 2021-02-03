@@ -1,4 +1,4 @@
-# Arduino-IIR-Filter-
+# Arduino-IIR-Filter
 Author: En Lu & Zhengyang Li
 All right reserved
 
