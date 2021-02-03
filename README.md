@@ -1,5 +1,5 @@
 # Arduino-IIR2-Filter-
-Author: En Lu(2601258L) & Zhengyang Li (GUID:2567005L)
+Author: En Lu & Zhengyang Li
 All right reserved
 
 These scripts are focusing on an Arduino UNO API.
