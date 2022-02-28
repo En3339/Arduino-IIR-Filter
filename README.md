@@ -40,6 +40,12 @@ Original Signal:
 
 
 Filtered:
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/56938146/155969332-b1cc16b2-55da-46c7-8673-16c407c48515.png)
 
 
