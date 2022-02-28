@@ -24,3 +24,26 @@ realtime_iir_main.py:	Realtime IIR filter processing. Implement a 2 order Butter
 output_picture.py:	Optional
 			Output picture: time domain diagram and power spectrum in real time
 			Run it in command window such as 'Anaconda Prompt (anaconda3)'
+			
+Here is an example of filter result(Time Domain):
+Original Signal:
+
+
+
+
+![image](https://user-images.githubusercontent.com/56938146/155969197-ce001f8d-d175-49d4-baad-23bb39b98a61.png)
+
+
+
+
+
+
+
+Filtered:
+![image](https://user-images.githubusercontent.com/56938146/155969332-b1cc16b2-55da-46c7-8673-16c407c48515.png)
+
+
+
+
+
+
